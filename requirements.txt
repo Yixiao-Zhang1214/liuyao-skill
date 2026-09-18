@@ -1,0 +1,3 @@
+# Versions validated for the source-reading helpers.
+pdfplumber==0.11.9
+pypdfium2==5.13.0

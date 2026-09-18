@@ -1,0 +1,4 @@
+interface:
+  display_name: "人间道周易解卦"
+  short_description: "按阴阳面数校验起卦，每次完整回读原书前言、相关卦辞爻辞与卦图"
+  default_prompt: "请用 $renjiandao-yijing 校验这个卦，并从我提供的《人间道》完整读取相关内容后解读。"

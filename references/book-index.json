@@ -1,0 +1,2524 @@
+{
+  "schema_version": 1,
+  "source_relative_path": "references/book/人间道.pdf",
+  "source_sha256": "dbddd248eea899dbc5914c17f149f2fc555cb4d327443d03896f099b61b28c10",
+  "pdf_pages": 146,
+  "frontmatter_pdf_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "body_book_pages": 136,
+  "chapters": [
+    {
+      "sequence": 1,
+      "symbol": "䷀",
+      "title": "乾为天",
+      "upper_trigram": "乾",
+      "lower_trigram": "乾",
+      "line_code_bottom_to_top": "111111",
+      "book_pages": [
+        1,
+        6
+      ],
+      "pdf_pages": [
+        11,
+        16
+      ]
+    },
+    {
+      "sequence": 2,
+      "symbol": "䷁",
+      "title": "坤为地",
+      "upper_trigram": "坤",
+      "lower_trigram": "坤",
+      "line_code_bottom_to_top": "000000",
+      "book_pages": [
+        7,
+        10
+      ],
+      "pdf_pages": [
+        17,
+        20
+      ]
+    },
+    {
+      "sequence": 3,
+      "symbol": "䷂",
+      "title": "水雷屯",
+      "upper_trigram": "坎",
+      "lower_trigram": "震",
+      "line_code_bottom_to_top": "100010",
+      "book_pages": [
+        11,
+        12
+      ],
+      "pdf_pages": [
+        21,
+        22
+      ]
+    },
+    {
+      "sequence": 4,
+      "symbol": "䷃",
+      "title": "山水蒙",
+      "upper_trigram": "艮",
+      "lower_trigram": "坎",
+      "line_code_bottom_to_top": "010001",
+      "book_pages": [
+        13,
+        14
+      ],
+      "pdf_pages": [
+        23,
+        24
+      ]
+    },
+    {
+      "sequence": 5,
+      "symbol": "䷄",
+      "title": "水天需",
+      "upper_trigram": "坎",
+      "lower_trigram": "乾",
+      "line_code_bottom_to_top": "111010",
+      "book_pages": [
+        15,
+        16
+      ],
+      "pdf_pages": [
+        25,
+        26
+      ]
+    },
+    {
+      "sequence": 6,
+      "symbol": "䷅",
+      "title": "天水讼",
+      "upper_trigram": "乾",
+      "lower_trigram": "坎",
+      "line_code_bottom_to_top": "010111",
+      "book_pages": [
+        17,
+        18
+      ],
+      "pdf_pages": [
+        27,
+        28
+      ]
+    },
+    {
+      "sequence": 7,
+      "symbol": "䷆",
+      "title": "地水师",
+      "upper_trigram": "坤",
+      "lower_trigram": "坎",
+      "line_code_bottom_to_top": "010000",
+      "book_pages": [
+        19,
+        20
+      ],
+      "pdf_pages": [
+        29,
+        30
+      ]
+    },
+    {
+      "sequence": 8,
+      "symbol": "䷇",
+      "title": "水地比",
+      "upper_trigram": "坎",
+      "lower_trigram": "坤",
+      "line_code_bottom_to_top": "000010",
+      "book_pages": [
+        21,
+        24
+      ],
+      "pdf_pages": [
+        31,
+        34
+      ]
+    },
+    {
+      "sequence": 9,
+      "symbol": "䷈",
+      "title": "风天小畜",
+      "upper_trigram": "巽",
+      "lower_trigram": "乾",
+      "line_code_bottom_to_top": "111011",
+      "book_pages": [
+        25,
+        26
+      ],
+      "pdf_pages": [
+        35,
+        36
+      ]
+    },
+    {
+      "sequence": 10,
+      "symbol": "䷉",
+      "title": "天泽履",
+      "upper_trigram": "乾",
+      "lower_trigram": "兑",
+      "line_code_bottom_to_top": "110111",
+      "book_pages": [
+        27,
+        28
+      ],
+      "pdf_pages": [
+        37,
+        38
+      ]
+    },
+    {
+      "sequence": 11,
+      "symbol": "䷊",
+      "title": "地天泰",
+      "upper_trigram": "坤",
+      "lower_trigram": "乾",
+      "line_code_bottom_to_top": "111000",
+      "book_pages": [
+        29,
+        30
+      ],
+      "pdf_pages": [
+        39,
+        40
+      ]
+    },
+    {
+      "sequence": 12,
+      "symbol": "䷋",
+      "title": "天地否",
+      "upper_trigram": "乾",
+      "lower_trigram": "坤",
+      "line_code_bottom_to_top": "000111",
+      "book_pages": [
+        31,
+        32
+      ],
+      "pdf_pages": [
+        41,
+        42
+      ]
+    },
+    {
+      "sequence": 13,
+      "symbol": "䷌",
+      "title": "天火同人",
+      "upper_trigram": "乾",
+      "lower_trigram": "离",
+      "line_code_bottom_to_top": "101111",
+      "book_pages": [
+        33,
+        34
+      ],
+      "pdf_pages": [
+        43,
+        44
+      ]
+    },
+    {
+      "sequence": 14,
+      "symbol": "䷍",
+      "title": "火天大有",
+      "upper_trigram": "离",
+      "lower_trigram": "乾",
+      "line_code_bottom_to_top": "111101",
+      "book_pages": [
+        35,
+        36
+      ],
+      "pdf_pages": [
+        45,
+        46
+      ]
+    },
+    {
+      "sequence": 15,
+      "symbol": "䷎",
+      "title": "地山谦",
+      "upper_trigram": "坤",
+      "lower_trigram": "艮",
+      "line_code_bottom_to_top": "001000",
+      "book_pages": [
+        37,
+        38
+      ],
+      "pdf_pages": [
+        47,
+        48
+      ]
+    },
+    {
+      "sequence": 16,
+      "symbol": "䷏",
+      "title": "雷地豫",
+      "upper_trigram": "震",
+      "lower_trigram": "坤",
+      "line_code_bottom_to_top": "000100",
+      "book_pages": [
+        39,
+        40
+      ],
+      "pdf_pages": [
+        49,
+        50
+      ]
+    },
+    {
+      "sequence": 17,
+      "symbol": "䷐",
+      "title": "泽雷随",
+      "upper_trigram": "兑",
+      "lower_trigram": "震",
+      "line_code_bottom_to_top": "100110",
+      "book_pages": [
+        41,
+        42
+      ],
+      "pdf_pages": [
+        51,
+        52
+      ]
+    },
+    {
+      "sequence": 18,
+      "symbol": "䷑",
+      "title": "山风蛊",
+      "upper_trigram": "艮",
+      "lower_trigram": "巽",
+      "line_code_bottom_to_top": "011001",
+      "book_pages": [
+        43,
+        44
+      ],
+      "pdf_pages": [
+        53,
+        54
+      ]
+    },
+    {
+      "sequence": 19,
+      "symbol": "䷒",
+      "title": "地泽临",
+      "upper_trigram": "坤",
+      "lower_trigram": "兑",
+      "line_code_bottom_to_top": "110000",
+      "book_pages": [
+        45,
+        46
+      ],
+      "pdf_pages": [
+        55,
+        56
+      ]
+    },
+    {
+      "sequence": 20,
+      "symbol": "䷓",
+      "title": "风地观",
+      "upper_trigram": "巽",
+      "lower_trigram": "坤",
+      "line_code_bottom_to_top": "000011",
+      "book_pages": [
+        47,
+        48
+      ],
+      "pdf_pages": [
+        57,
+        58
+      ]
+    },
+    {
+      "sequence": 21,
+      "symbol": "䷔",
+      "title": "火雷噬嗑",
+      "upper_trigram": "离",
+      "lower_trigram": "震",
+      "line_code_bottom_to_top": "100101",
+      "book_pages": [
+        49,
+        50
+      ],
+      "pdf_pages": [
+        59,
+        60
+      ]
+    },
+    {
+      "sequence": 22,
+      "symbol": "䷕",
+      "title": "山火贲",
+      "upper_trigram": "艮",
+      "lower_trigram": "离",
+      "line_code_bottom_to_top": "101001",
+      "book_pages": [
+        51,
+        52
+      ],
+      "pdf_pages": [
+        61,
+        62
+      ]
+    },
+    {
+      "sequence": 23,
+      "symbol": "䷖",
+      "title": "山地剥",
+      "upper_trigram": "艮",
+      "lower_trigram": "坤",
+      "line_code_bottom_to_top": "000001",
+      "book_pages": [
+        53,
+        54
+      ],
+      "pdf_pages": [
+        63,
+        64
+      ]
+    },
+    {
+      "sequence": 24,
+      "symbol": "䷗",
+      "title": "地雷复",
+      "upper_trigram": "坤",
+      "lower_trigram": "震",
+      "line_code_bottom_to_top": "100000",
+      "book_pages": [
+        55,
+        56
+      ],
+      "pdf_pages": [
+        65,
+        66
+      ]
+    },
+    {
+      "sequence": 25,
+      "symbol": "䷘",
+      "title": "天雷无妄",
+      "upper_trigram": "乾",
+      "lower_trigram": "震",
+      "line_code_bottom_to_top": "100111",
+      "book_pages": [
+        57,
+        58
+      ],
+      "pdf_pages": [
+        67,
+        68
+      ]
+    },
+    {
+      "sequence": 26,
+      "symbol": "䷙",
+      "title": "山天大畜",
+      "upper_trigram": "艮",
+      "lower_trigram": "乾",
+      "line_code_bottom_to_top": "111001",
+      "book_pages": [
+        59,
+        60
+      ],
+      "pdf_pages": [
+        69,
+        70
+      ]
+    },
+    {
+      "sequence": 27,
+      "symbol": "䷚",
+      "title": "山雷颐",
+      "upper_trigram": "艮",
+      "lower_trigram": "震",
+      "line_code_bottom_to_top": "100001",
+      "book_pages": [
+        61,
+        62
+      ],
+      "pdf_pages": [
+        71,
+        72
+      ]
+    },
+    {
+      "sequence": 28,
+      "symbol": "䷛",
+      "title": "泽风大过",
+      "upper_trigram": "兑",
+      "lower_trigram": "巽",
+      "line_code_bottom_to_top": "011110",
+      "book_pages": [
+        63,
+        64
+      ],
+      "pdf_pages": [
+        73,
+        74
+      ]
+    },
+    {
+      "sequence": 29,
+      "symbol": "䷜",
+      "title": "坎为水",
+      "upper_trigram": "坎",
+      "lower_trigram": "坎",
+      "line_code_bottom_to_top": "010010",
+      "book_pages": [
+        65,
+        66
+      ],
+      "pdf_pages": [
+        75,
+        76
+      ]
+    },
+    {
+      "sequence": 30,
+      "symbol": "䷝",
+      "title": "离为火",
+      "upper_trigram": "离",
+      "lower_trigram": "离",
+      "line_code_bottom_to_top": "101101",
+      "book_pages": [
+        67,
+        68
+      ],
+      "pdf_pages": [
+        77,
+        78
+      ]
+    },
+    {
+      "sequence": 31,
+      "symbol": "䷞",
+      "title": "泽山咸",
+      "upper_trigram": "兑",
+      "lower_trigram": "艮",
+      "line_code_bottom_to_top": "001110",
+      "book_pages": [
+        69,
+        70
+      ],
+      "pdf_pages": [
+        79,
+        80
+      ]
+    },
+    {
+      "sequence": 32,
+      "symbol": "䷟",
+      "title": "雷风恒",
+      "upper_trigram": "震",
+      "lower_trigram": "巽",
+      "line_code_bottom_to_top": "011100",
+      "book_pages": [
+        71,
+        72
+      ],
+      "pdf_pages": [
+        81,
+        82
+      ]
+    },
+    {
+      "sequence": 33,
+      "symbol": "䷠",
+      "title": "天山遁",
+      "upper_trigram": "乾",
+      "lower_trigram": "艮",
+      "line_code_bottom_to_top": "001111",
+      "book_pages": [
+        73,
+        74
+      ],
+      "pdf_pages": [
+        83,
+        84
+      ]
+    },
+    {
+      "sequence": 34,
+      "symbol": "䷡",
+      "title": "雷天大壮",
+      "upper_trigram": "震",
+      "lower_trigram": "乾",
+      "line_code_bottom_to_top": "111100",
+      "book_pages": [
+        75,
+        76
+      ],
+      "pdf_pages": [
+        85,
+        86
+      ]
+    },
+    {
+      "sequence": 35,
+      "symbol": "䷢",
+      "title": "火地晋",
+      "upper_trigram": "离",
+      "lower_trigram": "坤",
+      "line_code_bottom_to_top": "000101",
+      "book_pages": [
+        77,
+        78
+      ],
+      "pdf_pages": [
+        87,
+        88
+      ]
+    },
+    {
+      "sequence": 36,
+      "symbol": "䷣",
+      "title": "地火明夷",
+      "upper_trigram": "坤",
+      "lower_trigram": "离",
+      "line_code_bottom_to_top": "101000",
+      "book_pages": [
+        79,
+        80
+      ],
+      "pdf_pages": [
+        89,
+        90
+      ]
+    },
+    {
+      "sequence": 37,
+      "symbol": "䷤",
+      "title": "风火家人",
+      "upper_trigram": "巽",
+      "lower_trigram": "离",
+      "line_code_bottom_to_top": "101011",
+      "book_pages": [
+        81,
+        82
+      ],
+      "pdf_pages": [
+        91,
+        92
+      ]
+    },
+    {
+      "sequence": 38,
+      "symbol": "䷥",
+      "title": "火泽睽",
+      "upper_trigram": "离",
+      "lower_trigram": "兑",
+      "line_code_bottom_to_top": "110101",
+      "book_pages": [
+        83,
+        84
+      ],
+      "pdf_pages": [
+        93,
+        94
+      ]
+    },
+    {
+      "sequence": 39,
+      "symbol": "䷦",
+      "title": "水山蹇",
+      "upper_trigram": "坎",
+      "lower_trigram": "艮",
+      "line_code_bottom_to_top": "001010",
+      "book_pages": [
+        85,
+        86
+      ],
+      "pdf_pages": [
+        95,
+        96
+      ]
+    },
+    {
+      "sequence": 40,
+      "symbol": "䷧",
+      "title": "雷水解",
+      "upper_trigram": "震",
+      "lower_trigram": "坎",
+      "line_code_bottom_to_top": "010100",
+      "book_pages": [
+        87,
+        88
+      ],
+      "pdf_pages": [
+        97,
+        98
+      ]
+    },
+    {
+      "sequence": 41,
+      "symbol": "䷨",
+      "title": "山泽损",
+      "upper_trigram": "艮",
+      "lower_trigram": "兑",
+      "line_code_bottom_to_top": "110001",
+      "book_pages": [
+        89,
+        90
+      ],
+      "pdf_pages": [
+        99,
+        100
+      ]
+    },
+    {
+      "sequence": 42,
+      "symbol": "䷩",
+      "title": "风雷益",
+      "upper_trigram": "巽",
+      "lower_trigram": "震",
+      "line_code_bottom_to_top": "100011",
+      "book_pages": [
+        91,
+        92
+      ],
+      "pdf_pages": [
+        101,
+        102
+      ]
+    },
+    {
+      "sequence": 43,
+      "symbol": "䷪",
+      "title": "泽天夬",
+      "upper_trigram": "兑",
+      "lower_trigram": "乾",
+      "line_code_bottom_to_top": "111110",
+      "book_pages": [
+        93,
+        94
+      ],
+      "pdf_pages": [
+        103,
+        104
+      ]
+    },
+    {
+      "sequence": 44,
+      "symbol": "䷫",
+      "title": "天风姤",
+      "upper_trigram": "乾",
+      "lower_trigram": "巽",
+      "line_code_bottom_to_top": "011111",
+      "book_pages": [
+        95,
+        96
+      ],
+      "pdf_pages": [
+        105,
+        106
+      ]
+    },
+    {
+      "sequence": 45,
+      "symbol": "䷬",
+      "title": "泽地萃",
+      "upper_trigram": "兑",
+      "lower_trigram": "坤",
+      "line_code_bottom_to_top": "000110",
+      "book_pages": [
+        97,
+        98
+      ],
+      "pdf_pages": [
+        107,
+        108
+      ]
+    },
+    {
+      "sequence": 46,
+      "symbol": "䷭",
+      "title": "地风升",
+      "upper_trigram": "坤",
+      "lower_trigram": "巽",
+      "line_code_bottom_to_top": "011000",
+      "book_pages": [
+        99,
+        100
+      ],
+      "pdf_pages": [
+        109,
+        110
+      ]
+    },
+    {
+      "sequence": 47,
+      "symbol": "䷮",
+      "title": "泽水困",
+      "upper_trigram": "兑",
+      "lower_trigram": "坎",
+      "line_code_bottom_to_top": "010110",
+      "book_pages": [
+        101,
+        102
+      ],
+      "pdf_pages": [
+        111,
+        112
+      ]
+    },
+    {
+      "sequence": 48,
+      "symbol": "䷯",
+      "title": "水风井",
+      "upper_trigram": "坎",
+      "lower_trigram": "巽",
+      "line_code_bottom_to_top": "011010",
+      "book_pages": [
+        103,
+        104
+      ],
+      "pdf_pages": [
+        113,
+        114
+      ]
+    },
+    {
+      "sequence": 49,
+      "symbol": "䷰",
+      "title": "泽火革",
+      "upper_trigram": "兑",
+      "lower_trigram": "离",
+      "line_code_bottom_to_top": "101110",
+      "book_pages": [
+        105,
+        106
+      ],
+      "pdf_pages": [
+        115,
+        116
+      ]
+    },
+    {
+      "sequence": 50,
+      "symbol": "䷱",
+      "title": "火风鼎",
+      "upper_trigram": "离",
+      "lower_trigram": "巽",
+      "line_code_bottom_to_top": "011101",
+      "book_pages": [
+        107,
+        108
+      ],
+      "pdf_pages": [
+        117,
+        118
+      ]
+    },
+    {
+      "sequence": 51,
+      "symbol": "䷲",
+      "title": "震为雷",
+      "upper_trigram": "震",
+      "lower_trigram": "震",
+      "line_code_bottom_to_top": "100100",
+      "book_pages": [
+        109,
+        110
+      ],
+      "pdf_pages": [
+        119,
+        120
+      ]
+    },
+    {
+      "sequence": 52,
+      "symbol": "䷳",
+      "title": "艮为山",
+      "upper_trigram": "艮",
+      "lower_trigram": "艮",
+      "line_code_bottom_to_top": "001001",
+      "book_pages": [
+        111,
+        112
+      ],
+      "pdf_pages": [
+        121,
+        122
+      ]
+    },
+    {
+      "sequence": 53,
+      "symbol": "䷴",
+      "title": "风山渐",
+      "upper_trigram": "巽",
+      "lower_trigram": "艮",
+      "line_code_bottom_to_top": "001011",
+      "book_pages": [
+        113,
+        114
+      ],
+      "pdf_pages": [
+        123,
+        124
+      ]
+    },
+    {
+      "sequence": 54,
+      "symbol": "䷵",
+      "title": "雷泽归妹",
+      "upper_trigram": "震",
+      "lower_trigram": "兑",
+      "line_code_bottom_to_top": "110100",
+      "book_pages": [
+        115,
+        116
+      ],
+      "pdf_pages": [
+        125,
+        126
+      ]
+    },
+    {
+      "sequence": 55,
+      "symbol": "䷶",
+      "title": "雷火丰",
+      "upper_trigram": "震",
+      "lower_trigram": "离",
+      "line_code_bottom_to_top": "101100",
+      "book_pages": [
+        117,
+        118
+      ],
+      "pdf_pages": [
+        127,
+        128
+      ]
+    },
+    {
+      "sequence": 56,
+      "symbol": "䷷",
+      "title": "火山旅",
+      "upper_trigram": "离",
+      "lower_trigram": "艮",
+      "line_code_bottom_to_top": "001101",
+      "book_pages": [
+        119,
+        120
+      ],
+      "pdf_pages": [
+        129,
+        130
+      ]
+    },
+    {
+      "sequence": 57,
+      "symbol": "䷸",
+      "title": "巽为风",
+      "upper_trigram": "巽",
+      "lower_trigram": "巽",
+      "line_code_bottom_to_top": "011011",
+      "book_pages": [
+        121,
+        122
+      ],
+      "pdf_pages": [
+        131,
+        132
+      ]
+    },
+    {
+      "sequence": 58,
+      "symbol": "䷹",
+      "title": "兑为泽",
+      "upper_trigram": "兑",
+      "lower_trigram": "兑",
+      "line_code_bottom_to_top": "110110",
+      "book_pages": [
+        123,
+        124
+      ],
+      "pdf_pages": [
+        133,
+        134
+      ]
+    },
+    {
+      "sequence": 59,
+      "symbol": "䷺",
+      "title": "风水涣",
+      "upper_trigram": "巽",
+      "lower_trigram": "坎",
+      "line_code_bottom_to_top": "010011",
+      "book_pages": [
+        125,
+        126
+      ],
+      "pdf_pages": [
+        135,
+        136
+      ]
+    },
+    {
+      "sequence": 60,
+      "symbol": "䷻",
+      "title": "水泽节",
+      "upper_trigram": "坎",
+      "lower_trigram": "兑",
+      "line_code_bottom_to_top": "110010",
+      "book_pages": [
+        127,
+        128
+      ],
+      "pdf_pages": [
+        137,
+        138
+      ]
+    },
+    {
+      "sequence": 61,
+      "symbol": "䷼",
+      "title": "风泽中孚",
+      "upper_trigram": "巽",
+      "lower_trigram": "兑",
+      "line_code_bottom_to_top": "110011",
+      "book_pages": [
+        129,
+        130
+      ],
+      "pdf_pages": [
+        139,
+        140
+      ]
+    },
+    {
+      "sequence": 62,
+      "symbol": "䷽",
+      "title": "雷山小过",
+      "upper_trigram": "震",
+      "lower_trigram": "艮",
+      "line_code_bottom_to_top": "001100",
+      "book_pages": [
+        131,
+        132
+      ],
+      "pdf_pages": [
+        141,
+        142
+      ]
+    },
+    {
+      "sequence": 63,
+      "symbol": "䷾",
+      "title": "水火既济",
+      "upper_trigram": "坎",
+      "lower_trigram": "离",
+      "line_code_bottom_to_top": "101010",
+      "book_pages": [
+        133,
+        134
+      ],
+      "pdf_pages": [
+        143,
+        144
+      ]
+    },
+    {
+      "sequence": 64,
+      "symbol": "䷿",
+      "title": "火水未济",
+      "upper_trigram": "离",
+      "lower_trigram": "坎",
+      "line_code_bottom_to_top": "010101",
+      "book_pages": [
+        135,
+        136
+      ],
+      "pdf_pages": [
+        145,
+        146
+      ]
+    }
+  ],
+  "page_audit": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "raw_char_objects": 55,
+      "deduped_char_objects": 31,
+      "text_length": 38,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 2,
+      "book_page": null,
+      "raw_char_objects": 52,
+      "deduped_char_objects": 28,
+      "text_length": 32,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 3,
+      "book_page": null,
+      "raw_char_objects": 541,
+      "deduped_char_objects": 508,
+      "text_length": 533,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 4,
+      "book_page": null,
+      "raw_char_objects": 749,
+      "deduped_char_objects": 725,
+      "text_length": 761,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 5,
+      "book_page": null,
+      "raw_char_objects": 998,
+      "deduped_char_objects": 974,
+      "text_length": 1023,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 6,
+      "book_page": null,
+      "raw_char_objects": 1184,
+      "deduped_char_objects": 1097,
+      "text_length": 1139,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 7,
+      "book_page": null,
+      "raw_char_objects": 893,
+      "deduped_char_objects": 869,
+      "text_length": 904,
+      "text_layer_empty": false,
+      "image_count": 2,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 8,
+      "book_page": null,
+      "raw_char_objects": 52,
+      "deduped_char_objects": 28,
+      "text_length": 32,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 9,
+      "book_page": null,
+      "raw_char_objects": 2910,
+      "deduped_char_objects": 2880,
+      "text_length": 2960,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 10,
+      "book_page": null,
+      "raw_char_objects": 52,
+      "deduped_char_objects": 28,
+      "text_length": 32,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 1,
+      "raw_char_objects": 826,
+      "deduped_char_objects": 712,
+      "text_length": 754,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 2,
+      "raw_char_objects": 1082,
+      "deduped_char_objects": 1058,
+      "text_length": 1116,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 13,
+      "book_page": 3,
+      "raw_char_objects": 1101,
+      "deduped_char_objects": 1077,
+      "text_length": 1139,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 14,
+      "book_page": 4,
+      "raw_char_objects": 970,
+      "deduped_char_objects": 946,
+      "text_length": 1012,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 15,
+      "book_page": 5,
+      "raw_char_objects": 445,
+      "deduped_char_objects": 421,
+      "text_length": 447,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 16,
+      "book_page": 6,
+      "raw_char_objects": 55,
+      "deduped_char_objects": 31,
+      "text_length": 36,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 17,
+      "book_page": 7,
+      "raw_char_objects": 685,
+      "deduped_char_objects": 514,
+      "text_length": 549,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 18,
+      "book_page": 8,
+      "raw_char_objects": 1039,
+      "deduped_char_objects": 1015,
+      "text_length": 1076,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 19,
+      "book_page": 9,
+      "raw_char_objects": 1041,
+      "deduped_char_objects": 1017,
+      "text_length": 1068,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 20,
+      "book_page": 10,
+      "raw_char_objects": 56,
+      "deduped_char_objects": 32,
+      "text_length": 37,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 21,
+      "book_page": 11,
+      "raw_char_objects": 694,
+      "deduped_char_objects": 574,
+      "text_length": 608,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 22,
+      "book_page": 12,
+      "raw_char_objects": 1075,
+      "deduped_char_objects": 1051,
+      "text_length": 1122,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 23,
+      "book_page": 13,
+      "raw_char_objects": 778,
+      "deduped_char_objects": 667,
+      "text_length": 702,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 24,
+      "book_page": 14,
+      "raw_char_objects": 1059,
+      "deduped_char_objects": 1035,
+      "text_length": 1100,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 25,
+      "book_page": 15,
+      "raw_char_objects": 758,
+      "deduped_char_objects": 671,
+      "text_length": 709,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 26,
+      "book_page": 16,
+      "raw_char_objects": 1008,
+      "deduped_char_objects": 984,
+      "text_length": 1049,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 27,
+      "book_page": 17,
+      "raw_char_objects": 696,
+      "deduped_char_objects": 579,
+      "text_length": 614,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 28,
+      "book_page": 18,
+      "raw_char_objects": 945,
+      "deduped_char_objects": 921,
+      "text_length": 983,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 29,
+      "book_page": 19,
+      "raw_char_objects": 814,
+      "deduped_char_objects": 697,
+      "text_length": 732,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 30,
+      "book_page": 20,
+      "raw_char_objects": 872,
+      "deduped_char_objects": 848,
+      "text_length": 910,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 31,
+      "book_page": 21,
+      "raw_char_objects": 848,
+      "deduped_char_objects": 737,
+      "text_length": 773,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 32,
+      "book_page": 22,
+      "raw_char_objects": 1224,
+      "deduped_char_objects": 1200,
+      "text_length": 1260,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 33,
+      "book_page": 23,
+      "raw_char_objects": 244,
+      "deduped_char_objects": 220,
+      "text_length": 236,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 34,
+      "book_page": 24,
+      "raw_char_objects": 56,
+      "deduped_char_objects": 32,
+      "text_length": 37,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 35,
+      "book_page": 25,
+      "raw_char_objects": 780,
+      "deduped_char_objects": 678,
+      "text_length": 713,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 36,
+      "book_page": 26,
+      "raw_char_objects": 1214,
+      "deduped_char_objects": 1190,
+      "text_length": 1262,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 37,
+      "book_page": 27,
+      "raw_char_objects": 841,
+      "deduped_char_objects": 709,
+      "text_length": 744,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 38,
+      "book_page": 28,
+      "raw_char_objects": 1071,
+      "deduped_char_objects": 1029,
+      "text_length": 1092,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 39,
+      "book_page": 29,
+      "raw_char_objects": 841,
+      "deduped_char_objects": 730,
+      "text_length": 769,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 40,
+      "book_page": 30,
+      "raw_char_objects": 990,
+      "deduped_char_objects": 966,
+      "text_length": 1032,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 41,
+      "book_page": 31,
+      "raw_char_objects": 780,
+      "deduped_char_objects": 672,
+      "text_length": 707,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 42,
+      "book_page": 32,
+      "raw_char_objects": 914,
+      "deduped_char_objects": 890,
+      "text_length": 949,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 43,
+      "book_page": 33,
+      "raw_char_objects": 834,
+      "deduped_char_objects": 735,
+      "text_length": 770,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 44,
+      "book_page": 34,
+      "raw_char_objects": 905,
+      "deduped_char_objects": 881,
+      "text_length": 943,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 45,
+      "book_page": 35,
+      "raw_char_objects": 826,
+      "deduped_char_objects": 712,
+      "text_length": 748,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 46,
+      "book_page": 36,
+      "raw_char_objects": 921,
+      "deduped_char_objects": 897,
+      "text_length": 955,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 47,
+      "book_page": 37,
+      "raw_char_objects": 738,
+      "deduped_char_objects": 630,
+      "text_length": 666,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 48,
+      "book_page": 38,
+      "raw_char_objects": 1037,
+      "deduped_char_objects": 1013,
+      "text_length": 1074,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 49,
+      "book_page": 39,
+      "raw_char_objects": 622,
+      "deduped_char_objects": 529,
+      "text_length": 563,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 50,
+      "book_page": 40,
+      "raw_char_objects": 1020,
+      "deduped_char_objects": 996,
+      "text_length": 1059,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 51,
+      "book_page": 41,
+      "raw_char_objects": 742,
+      "deduped_char_objects": 628,
+      "text_length": 663,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 52,
+      "book_page": 42,
+      "raw_char_objects": 885,
+      "deduped_char_objects": 861,
+      "text_length": 922,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 53,
+      "book_page": 43,
+      "raw_char_objects": 778,
+      "deduped_char_objects": 691,
+      "text_length": 729,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 54,
+      "book_page": 44,
+      "raw_char_objects": 921,
+      "deduped_char_objects": 897,
+      "text_length": 955,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 55,
+      "book_page": 45,
+      "raw_char_objects": 778,
+      "deduped_char_objects": 661,
+      "text_length": 698,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 56,
+      "book_page": 46,
+      "raw_char_objects": 689,
+      "deduped_char_objects": 665,
+      "text_length": 714,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 57,
+      "book_page": 47,
+      "raw_char_objects": 746,
+      "deduped_char_objects": 650,
+      "text_length": 686,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 58,
+      "book_page": 48,
+      "raw_char_objects": 750,
+      "deduped_char_objects": 726,
+      "text_length": 775,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 59,
+      "book_page": 49,
+      "raw_char_objects": 841,
+      "deduped_char_objects": 724,
+      "text_length": 760,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 60,
+      "book_page": 50,
+      "raw_char_objects": 707,
+      "deduped_char_objects": 683,
+      "text_length": 733,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 61,
+      "book_page": 51,
+      "raw_char_objects": 1068,
+      "deduped_char_objects": 657,
+      "text_length": 693,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 62,
+      "book_page": 52,
+      "raw_char_objects": 657,
+      "deduped_char_objects": 633,
+      "text_length": 682,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 63,
+      "book_page": 53,
+      "raw_char_objects": 790,
+      "deduped_char_objects": 670,
+      "text_length": 705,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 64,
+      "book_page": 54,
+      "raw_char_objects": 648,
+      "deduped_char_objects": 624,
+      "text_length": 671,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 65,
+      "book_page": 55,
+      "raw_char_objects": 819,
+      "deduped_char_objects": 717,
+      "text_length": 753,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 66,
+      "book_page": 56,
+      "raw_char_objects": 714,
+      "deduped_char_objects": 690,
+      "text_length": 740,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 67,
+      "book_page": 57,
+      "raw_char_objects": 815,
+      "deduped_char_objects": 725,
+      "text_length": 762,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 68,
+      "book_page": 58,
+      "raw_char_objects": 726,
+      "deduped_char_objects": 702,
+      "text_length": 753,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 69,
+      "book_page": 59,
+      "raw_char_objects": 723,
+      "deduped_char_objects": 630,
+      "text_length": 665,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 70,
+      "book_page": 60,
+      "raw_char_objects": 635,
+      "deduped_char_objects": 611,
+      "text_length": 656,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 71,
+      "book_page": 61,
+      "raw_char_objects": 730,
+      "deduped_char_objects": 640,
+      "text_length": 679,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 72,
+      "book_page": 62,
+      "raw_char_objects": 817,
+      "deduped_char_objects": 793,
+      "text_length": 847,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 73,
+      "book_page": 63,
+      "raw_char_objects": 827,
+      "deduped_char_objects": 698,
+      "text_length": 735,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 74,
+      "book_page": 64,
+      "raw_char_objects": 791,
+      "deduped_char_objects": 767,
+      "text_length": 822,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 75,
+      "book_page": 65,
+      "raw_char_objects": 783,
+      "deduped_char_objects": 696,
+      "text_length": 733,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 76,
+      "book_page": 66,
+      "raw_char_objects": 884,
+      "deduped_char_objects": 848,
+      "text_length": 906,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 77,
+      "book_page": 67,
+      "raw_char_objects": 818,
+      "deduped_char_objects": 710,
+      "text_length": 748,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 78,
+      "book_page": 68,
+      "raw_char_objects": 1001,
+      "deduped_char_objects": 977,
+      "text_length": 1041,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 79,
+      "book_page": 69,
+      "raw_char_objects": 834,
+      "deduped_char_objects": 732,
+      "text_length": 769,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 80,
+      "book_page": 70,
+      "raw_char_objects": 823,
+      "deduped_char_objects": 793,
+      "text_length": 848,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 81,
+      "book_page": 71,
+      "raw_char_objects": 786,
+      "deduped_char_objects": 678,
+      "text_length": 716,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 82,
+      "book_page": 72,
+      "raw_char_objects": 878,
+      "deduped_char_objects": 854,
+      "text_length": 910,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 83,
+      "book_page": 73,
+      "raw_char_objects": 803,
+      "deduped_char_objects": 665,
+      "text_length": 702,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 84,
+      "book_page": 74,
+      "raw_char_objects": 885,
+      "deduped_char_objects": 833,
+      "text_length": 890,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 85,
+      "book_page": 75,
+      "raw_char_objects": 714,
+      "deduped_char_objects": 615,
+      "text_length": 655,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 86,
+      "book_page": 76,
+      "raw_char_objects": 732,
+      "deduped_char_objects": 708,
+      "text_length": 757,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 87,
+      "book_page": 77,
+      "raw_char_objects": 688,
+      "deduped_char_objects": 568,
+      "text_length": 601,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 88,
+      "book_page": 78,
+      "raw_char_objects": 910,
+      "deduped_char_objects": 874,
+      "text_length": 935,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 89,
+      "book_page": 79,
+      "raw_char_objects": 743,
+      "deduped_char_objects": 638,
+      "text_length": 676,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 90,
+      "book_page": 80,
+      "raw_char_objects": 914,
+      "deduped_char_objects": 890,
+      "text_length": 951,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 91,
+      "book_page": 81,
+      "raw_char_objects": 806,
+      "deduped_char_objects": 695,
+      "text_length": 735,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 92,
+      "book_page": 82,
+      "raw_char_objects": 711,
+      "deduped_char_objects": 675,
+      "text_length": 722,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 93,
+      "book_page": 83,
+      "raw_char_objects": 753,
+      "deduped_char_objects": 660,
+      "text_length": 697,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 94,
+      "book_page": 84,
+      "raw_char_objects": 1119,
+      "deduped_char_objects": 1095,
+      "text_length": 1165,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 95,
+      "book_page": 85,
+      "raw_char_objects": 830,
+      "deduped_char_objects": 728,
+      "text_length": 764,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 96,
+      "book_page": 86,
+      "raw_char_objects": 795,
+      "deduped_char_objects": 771,
+      "text_length": 825,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 97,
+      "book_page": 87,
+      "raw_char_objects": 778,
+      "deduped_char_objects": 631,
+      "text_length": 668,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 98,
+      "book_page": 88,
+      "raw_char_objects": 838,
+      "deduped_char_objects": 814,
+      "text_length": 869,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 99,
+      "book_page": 89,
+      "raw_char_objects": 780,
+      "deduped_char_objects": 675,
+      "text_length": 713,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 100,
+      "book_page": 90,
+      "raw_char_objects": 917,
+      "deduped_char_objects": 893,
+      "text_length": 952,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 101,
+      "book_page": 91,
+      "raw_char_objects": 781,
+      "deduped_char_objects": 709,
+      "text_length": 744,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 102,
+      "book_page": 92,
+      "raw_char_objects": 922,
+      "deduped_char_objects": 898,
+      "text_length": 960,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 103,
+      "book_page": 93,
+      "raw_char_objects": 855,
+      "deduped_char_objects": 726,
+      "text_length": 764,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 104,
+      "book_page": 94,
+      "raw_char_objects": 1043,
+      "deduped_char_objects": 998,
+      "text_length": 1061,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 105,
+      "book_page": 95,
+      "raw_char_objects": 672,
+      "deduped_char_objects": 567,
+      "text_length": 600,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 106,
+      "book_page": 96,
+      "raw_char_objects": 972,
+      "deduped_char_objects": 933,
+      "text_length": 996,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 107,
+      "book_page": 97,
+      "raw_char_objects": 830,
+      "deduped_char_objects": 719,
+      "text_length": 757,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 108,
+      "book_page": 98,
+      "raw_char_objects": 999,
+      "deduped_char_objects": 960,
+      "text_length": 1020,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 109,
+      "book_page": 99,
+      "raw_char_objects": 722,
+      "deduped_char_objects": 629,
+      "text_length": 669,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 110,
+      "book_page": 100,
+      "raw_char_objects": 637,
+      "deduped_char_objects": 610,
+      "text_length": 654,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 111,
+      "book_page": 101,
+      "raw_char_objects": 757,
+      "deduped_char_objects": 643,
+      "text_length": 677,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 112,
+      "book_page": 102,
+      "raw_char_objects": 946,
+      "deduped_char_objects": 910,
+      "text_length": 975,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 113,
+      "book_page": 103,
+      "raw_char_objects": 807,
+      "deduped_char_objects": 690,
+      "text_length": 726,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 114,
+      "book_page": 104,
+      "raw_char_objects": 805,
+      "deduped_char_objects": 781,
+      "text_length": 838,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 115,
+      "book_page": 105,
+      "raw_char_objects": 830,
+      "deduped_char_objects": 710,
+      "text_length": 748,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 116,
+      "book_page": 106,
+      "raw_char_objects": 821,
+      "deduped_char_objects": 797,
+      "text_length": 857,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 117,
+      "book_page": 107,
+      "raw_char_objects": 730,
+      "deduped_char_objects": 616,
+      "text_length": 651,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 118,
+      "book_page": 108,
+      "raw_char_objects": 841,
+      "deduped_char_objects": 814,
+      "text_length": 871,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 119,
+      "book_page": 109,
+      "raw_char_objects": 792,
+      "deduped_char_objects": 663,
+      "text_length": 698,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 120,
+      "book_page": 110,
+      "raw_char_objects": 748,
+      "deduped_char_objects": 712,
+      "text_length": 757,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 121,
+      "book_page": 111,
+      "raw_char_objects": 791,
+      "deduped_char_objects": 701,
+      "text_length": 740,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 122,
+      "book_page": 112,
+      "raw_char_objects": 736,
+      "deduped_char_objects": 712,
+      "text_length": 763,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 123,
+      "book_page": 113,
+      "raw_char_objects": 925,
+      "deduped_char_objects": 820,
+      "text_length": 862,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 124,
+      "book_page": 114,
+      "raw_char_objects": 811,
+      "deduped_char_objects": 781,
+      "text_length": 835,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 125,
+      "book_page": 115,
+      "raw_char_objects": 790,
+      "deduped_char_objects": 676,
+      "text_length": 712,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 126,
+      "book_page": 116,
+      "raw_char_objects": 870,
+      "deduped_char_objects": 846,
+      "text_length": 906,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 127,
+      "book_page": 117,
+      "raw_char_objects": 751,
+      "deduped_char_objects": 634,
+      "text_length": 671,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 128,
+      "book_page": 118,
+      "raw_char_objects": 1036,
+      "deduped_char_objects": 1012,
+      "text_length": 1079,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 129,
+      "book_page": 119,
+      "raw_char_objects": 757,
+      "deduped_char_objects": 661,
+      "text_length": 698,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 130,
+      "book_page": 120,
+      "raw_char_objects": 680,
+      "deduped_char_objects": 653,
+      "text_length": 700,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 131,
+      "book_page": 121,
+      "raw_char_objects": 682,
+      "deduped_char_objects": 562,
+      "text_length": 597,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 132,
+      "book_page": 122,
+      "raw_char_objects": 821,
+      "deduped_char_objects": 797,
+      "text_length": 855,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 133,
+      "book_page": 123,
+      "raw_char_objects": 789,
+      "deduped_char_objects": 678,
+      "text_length": 721,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 134,
+      "book_page": 124,
+      "raw_char_objects": 429,
+      "deduped_char_objects": 405,
+      "text_length": 437,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 135,
+      "book_page": 125,
+      "raw_char_objects": 704,
+      "deduped_char_objects": 614,
+      "text_length": 648,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 136,
+      "book_page": 126,
+      "raw_char_objects": 708,
+      "deduped_char_objects": 684,
+      "text_length": 733,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 137,
+      "book_page": 127,
+      "raw_char_objects": 789,
+      "deduped_char_objects": 690,
+      "text_length": 728,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 138,
+      "book_page": 128,
+      "raw_char_objects": 621,
+      "deduped_char_objects": 597,
+      "text_length": 641,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 139,
+      "book_page": 129,
+      "raw_char_objects": 713,
+      "deduped_char_objects": 629,
+      "text_length": 666,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 140,
+      "book_page": 130,
+      "raw_char_objects": 723,
+      "deduped_char_objects": 699,
+      "text_length": 747,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 141,
+      "book_page": 131,
+      "raw_char_objects": 787,
+      "deduped_char_objects": 676,
+      "text_length": 712,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 142,
+      "book_page": 132,
+      "raw_char_objects": 965,
+      "deduped_char_objects": 941,
+      "text_length": 1004,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 143,
+      "book_page": 133,
+      "raw_char_objects": 760,
+      "deduped_char_objects": 646,
+      "text_length": 686,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 144,
+      "book_page": 134,
+      "raw_char_objects": 699,
+      "deduped_char_objects": 667,
+      "text_length": 714,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 145,
+      "book_page": 135,
+      "raw_char_objects": 709,
+      "deduped_char_objects": 601,
+      "text_length": 636,
+      "text_layer_empty": false,
+      "image_count": 1,
+      "suspect_characters": []
+    },
+    {
+      "pdf_page": 146,
+      "book_page": 136,
+      "raw_char_objects": 818,
+      "deduped_char_objects": 794,
+      "text_length": 852,
+      "text_layer_empty": false,
+      "image_count": 0,
+      "suspect_characters": []
+    }
+  ],
+  "known_ambiguities": [
+    {
+      "book_page": 2,
+      "pdf_page": 12,
+      "source_text_layer": "用鲍陽剛之道",
+      "note": "上下文疑为‘用纯阳刚之道’，需与另一可靠版本校勘后再改。"
+    },
+    {
+      "book_page": 135,
+      "pdf_page": 145,
+      "source_text_layer": "碣火求珠之課",
+      "note": "页面印刷与文字层均如此，语义不常见；暂保留原文，待版本校勘。"
+    }
+  ],
+  "quality_scope": "全 146 页文字层及章节标题审计；不是逐字人工校勘，也不证明全书无识别错误",
+  "layout_warning": "双栏及混合栏可能交错；全宽及分栏候选都必须以原页为准",
+  "created_at_utc": "2026-09-18T04:13:10.668906+00:00"
+}
