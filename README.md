@@ -1,8 +1,8 @@
 # 人间道周易解卦 Skill
 
-Codex 技能名：`renjiandao-yijing`。校验三面六投起卦，并从使用者本地提供的倪海厦《人间道》逐次完整回读前言、主变卦章节和原页，区分易辞原文、作者解释和针对问题的推断。
+Codex 技能名：`renjiandao-yijing`。校验三面六投起卦，并从随附的倪海厦《人间道》逐次完整回读前言、主变卦章节和原页，区分易辞原文、作者解释和针对问题的推断。
 
-本仓库发布代码、规则、64 卦定位索引和使用说明，**不包含原书 PDF、完整正文知识库、私人占问记录或阅读包**。本地安装版所附原书没有公开上传。来源读取不能以索引、旧答案或模型记忆代替。
+本仓库包含代码、规则、64 卦定位索引、使用说明和用户明确要求随技能上传的原书 PDF，**不包含私人占问记录或阅读包**。原书用于逐次回读核对，不为其声明新的开放许可证。来源读取不能以索引、旧答案或模型记忆代替。
 
 ## 安装
 
@@ -16,9 +16,9 @@ python3 -m pip install -r requirements.txt
 
 将整个目录作为 `renjiandao-yijing` 放入 Codex 的技能目录（通常为 `~/.codex/skills/`，自定义 CODEX_HOME 时使用其 skills 目录）。若已有同名技能，先比较并备份，不直接覆盖。技能的操作说明见 [SKILL.md](SKILL.md)。
 
-## 提供本地原书
+## 随附原书与来源校验
 
-自行提供有权使用的同版《人间道》PDF，创建 `references/book/` 目录后将文件放到：
+仓库随附用户提供的 [《人间道》PDF](references/book/人间道.pdf)，位置为：
 
 ```text
 references/book/人间道.pdf
@@ -65,7 +65,7 @@ python3 scripts/hexagram.py resolve --main '风火家人' --moving '3' --changed
 python3 -m unittest discover -s scripts -p test_skill.py -k CastingTests -v
 ```
 
-提供原书和依赖后，运行全部测试：
+安装依赖后，运行全部测试：
 
 ```bash
 python3 scripts/test_skill.py
